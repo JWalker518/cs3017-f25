@@ -1,12 +1,12 @@
 # cs3017-f25
 Basic Web Page for CS-3017
 
-# About this class
+# About this class {#about}
 This class is about designing a good website.
 
 This will now be a second paragraph on the site.
 
-## This is a subsection 
+## This is a subsection {#subsection-example}
 We can add emphasis to text with *asterisks* to create italics or **bold** text or ***both***
 
 ## Example Quotation
@@ -33,6 +33,14 @@ We can add emphasis to text with *asterisks* to create italics or **bold** text 
     1. This is the first item in a sub-list
 
 ## Links to Other Places
+This will send you to google.com
+
 [Google Search](https://google.com)
 
+This will send you to the class3 file
+
 [Class 3](class3)
+
+This will send you to the Subsection Header further up on the page
+
+[subsection example](#subsection-example)
