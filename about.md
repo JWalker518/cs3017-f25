@@ -26,3 +26,5 @@ My Hobbies:
 ## Where to Find Me
 [My GitHub Profile](https://github.com/JWalker518/cs3017-f25)
 
+[Totally Not Google](https://google.com)
+
