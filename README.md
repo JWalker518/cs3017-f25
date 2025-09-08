@@ -44,3 +44,7 @@ This will send you to the class3 file
 This will send you to the Subsection Header further up on the page
 
 [subsection example](#subsection-example)
+
+This will send you to my About Page
+
+[About Me](about)
